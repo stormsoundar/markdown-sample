@@ -42,9 +42,9 @@ ___
 
 <!-- Links -->
 
-[Soundararajan](https://soundar-portfolio-1995.web.app/){:target="_blank"}
+[Soundararajan](https://soundar-portfolio-1995.web.app/){:target="\_blank"}
 
-[Soundararajan](https://soundar-portfolio-1995.web.app "Soundararajan" target="_blank")
+[Soundararajan](https://soundar-portfolio-1995.web.app "Soundararajan")
 
 <!-- Unordered List -->
 
