@@ -44,7 +44,7 @@ ___
 
 [Soundararajan](https://soundar-portfolio-1995.web.app/){:target="_blank"}
 
-[Soundararajan](https://soundar-portfolio-1995.web.app "Soundararajan"){:target="_blank"}
+[Soundararajan](https://soundar-portfolio-1995.web.app "Soundararajan" target="_blank")
 
 <!-- Unordered List -->
 
